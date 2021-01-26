@@ -1,4 +1,10 @@
+# import libraries
 
+import requests
+import numpy as np
+import json
+import pandas as pd
+import cx_Oracle
 
 cx_Oracle.init_oracle_client(lib_dir=r"C:\Oracle\instantclient_19_8")
 
