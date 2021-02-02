@@ -1,0 +1,29 @@
+{
+    "ficheiros": [
+        {
+            "nome": "manuel.pdf",
+            "tipo": "pdf",
+            "meta": [{
+                "nome": "numero_pags",
+                "valor": 3
+            }]
+        }
+    ],
+    "pasta_rec": [
+        {
+            "nome": "pasta1",
+            "pasta": {
+                "ficheiros": [{
+
+                    "nome": "teste.pdf",
+                    "tipo": "pdf",
+                    "meta": [{
+                        "nome": "numero_pags",
+                        "valor": 3
+                    }]
+                }],
+                "pasta_rec": []
+            }
+        }
+    ]
+}

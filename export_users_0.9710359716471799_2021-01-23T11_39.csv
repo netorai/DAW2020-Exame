@@ -1,0 +1,4 @@
+nome,email,[estudante,docente,curso,departamento],dataRegisto,dataUltimoAcesso,username,password,nivel,[post]
+Augusto Manuel,augusto@augusto.augusto,[true;true;Augusto man;Dieieie],2020-12-23T18:07:00.000Z,2020-12-23T18:07:00.000Z,augu,undefined,0,[]
+joa pedro,jirbusto@jirbusto.pt,[true;true;curso;dep],2021-01-21T09:43:00.000Z,2021-01-21T09:43:00.000Z,joaop,undefined,1,[]
+josé ramalho,jcr@uminho.pt,[true;true;Engenharia Informática;Informática],2020-12-20T12:21:00.000Z,2020-12-20T12:21:00.000Z,jcr,undefined,1,[]
