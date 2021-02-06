@@ -1,0 +1,72 @@
+Manifesto
+
+fichero {
+
+    nome: ola.pdf,
+    meta: [{
+            "numero_pags": 3
+        }]
+}
+
+pasta {
+
+       ficherios : [ficheiro]
+       pasta_rec : [ { "nome" : ola , "pasta": pasta}] 
+
+}
+
+
+
+
+
+
+
+recuros {
+
+    "id": "dasda",
+
+    "titulo": "",
+    "subtitulo": "",
+    "dataCriacao": "13/12/2010",
+    "dataRegisto": "13/12/2010",
+    "produtor": "Margarida@gmail.pt",
+    "visibilidade": "publico",
+    "likes": 4,
+    "hashtags": [],
+    "posts": [],
+    "ficheiros": []
+
+
+
+
+    ficheiro {
+
+        tipo: path: nome: size: meta:
+
+    }
+
+
+    tipos:
+
+
+        tipo - >> pdf: [{
+                "numeropags": int "}]
+
+
+
+                {
+                    "nome": "jaugusto",
+                    "email": "jaaa@jaaa.pt",
+                    "filiacao": {
+                        "estudante": false,
+                        "docente": true,
+                        "curso": "adsa",
+                        "departamento": "zzzzzzzz"
+                    },
+                    "dataRegisto": "12/03/2020",
+                    "dataUltimoAcesso": "12/03/2020",
+                    "username": "augusto",
+                    "password": "pas123",
+                    "nivel": 2
+
+                }
